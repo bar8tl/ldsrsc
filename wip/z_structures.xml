@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structures>
+ <!-- Para libros, manuales y escrituras -->
+ <bookshelf      title="" items="">
+  <reco          title="" items="">
+   <volume       title="" items="">
+    <book        title="" items="">
+     <part       title="" items="">
+      <chapter   title="" items="">
+       <section  title="" items="">
+        <article title="">
+        </article>
+       </section>
+      </chapter>
+     </part>
+    </book>
+   </volume>
+  </reco>
+ </bookshelf>
+
+ <!-- Para discursos de conferencia -->
+ <bookshelf                     title="" items="">
+  <reco                         title="" items="">
+   <volume       key=""         title="">
+    <conference  key="" date="" title="">
+     <sesion     key=""         title="">
+      <discourse key=""         title="" author="">
+      </discourse>
+     </sesion>
+    </conference>
+   </volume>
+  </reco>
+ </bookshelf>
+
+</structures>
