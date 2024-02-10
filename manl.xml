@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<bookshelf title="Manuales" items="1">
 <reco key="esdom" title="Manuales de Escuela Dominical">
 <volume key="esdomm" title="Manuales de Escuela Dominical">
 <book key="guiapadr" title="Una guía para los padres">
@@ -6304,7 +6305,7 @@ La persona encargada de la biblioteca de su centro de reuniones y el secretario 
 <chapter key="lenspc00" title="Presentacion">
 Parte C: La enseñanza de diferentes grupos en base a sus edades
 </chapter>
-<chapter key="lenspc01" title="1. CÓMO ENSEÑAR A LOS NIÑOS">
+<chapter key="lenspc01" title="C1. CÓMO ENSEÑAR A LOS NIÑOS">
 1. CÓMO ENSEÑAR A LOS NIÑOS
 Cuando ministró a los nefitas, el Señor resucitado demostró Su gran amor por los niños:
 “Tomó a sus niños pequeños, uno por uno, y los bendijo, y rogó al Padre por ellos...
@@ -6329,7 +6330,7 @@ Cómo ayudar a fortalecer las familias
 Si usted es un maestro o líder, puede ayudar a los padres en su esfuerzo por enseñar el Evangelio a sus hijos. Informe a los padres lo que les está enseñando a sus hijos a fin de que puedan reafirmar esos principios del Evangelio en el hogar (véase “Ocasiones regulares para la enseñanza en el hogar”, págs. 154–157). Aliente a los niños a compartir con sus familias lo que están aprendiendo. En la noche de hogar pueden compartir las canciones, los pasajes de las Escrituras, los juegos y los principios que aprenden en las clases o actividades de la Primaria. En ocasiones, podría enviar con ellos a su hogar algunos informes sobre las lecciones o actividades en que hayan participado para que entonces puedan reforzar en el hogar lo que hayan aprendido. Asimismo, podría informar a los padres cuando sus hijos hayan sido de particular ayuda o cuando se les haya asignado a decir una oración o dar un discurso. También podría pedir a los padres que compartan sus experiencias o sus testimonios como parte de una lección.
 Recuerde que cuando les ayuda a obtener un testimonio y a vivir el Evangelio, los niños pueden ejercer gran influencia en sus familias. Al enseñar el Evangelio a los niños y ayudarles a que aprendan a vivirlo, estará fortaleciendo también a sus familias.
 </chapter>
-<chapter key="lenspc02" title="2. CARACTERÍSTICAS DE LOS NIÑOS EN BASE A SUS EDADES">
+<chapter key="lenspc02" title="C2. CARACTERÍSTICAS DE LOS NIÑOS EN BASE A SUS EDADES">
 2. CARACTERÍSTICAS DE LOS NIÑOS EN BASE A SUS EDADES
 Los niños siempre están cambiando física, mental, social, emocional y espiritualmente. Siguen una norma general de crecimiento y desarrollo. Los padres y maestros que están al tanto de las características comunes de los diferentes grupos de acuerdo con sus edades, podrán encarar más apropiadamente el comportamiento de los niños y enseñarles con mayor eficacia.
 Algunos niños podrían desarrollarse más rápidamente o más lentamente que otros de su misma edad. Por ejemplo, un niño de seis años de edad podría comportarse como uno de cinco o uno de siete años. Recuerde asimismo que algunos niños podrían retroceder temporariamente a un comportamiento más infantil en ocasiones de estrés o tensión emocional.
@@ -6494,7 +6495,7 @@ Sugerencias para los padres y los maestros
 • No compare al niño con otros. Aliéntelo y elogie sus logros. Demuéstrele su confianza como individuo. Reafirme el comportamiento positivo y trate de ignorar los actos negativos de menor consecuencia. Permítale ser independiente y que exprese sus sentimientos personales. Trate de comprender sus preocupaciones y todo lo que le hace sentirse triste.
 • Enséñele conceptos y valores morales específicos. Destáquele que la verdadera felicidad y el mejoramiento personal provienen de guardar los mandamientos. Aliéntele a comprometerse a vivir los principios del Evangelio. Ayúdele a entender las responsabilidades y bendiciones futuras y a prepararse para recibirlas. No lo avergüence cuando cometa errores, en particular frente a sus amigos. Enséñele el Evangelio en su plenitud con relatos de las Escrituras y de la vida de los profetas de los últimos días. Aliéntelo a dar su testimonio.
 </chapter>
-<chapter key="lenspc03" title="3. CÓMO ENSEÑAR A LOS NIÑOS EN GRUPOS DE EDADES COMBINADAS">
+<chapter key="lenspc03" title="C3. CÓMO ENSEÑAR A LOS NIÑOS EN GRUPOS DE EDADES COMBINADAS">
 3. CÓMO ENSEÑAR A LOS NIÑOS EN GRUPOS DE EDADES COMBINADAS
 Con frecuencia, los niños de diferentes edades se reúnen en su hogar y en la Iglesia para aprender juntos el Evangelio. Tales situaciones en grupo incluyen la noche de hogar y otras reuniones familiares, el tiempo para compartir en la Primaria, los días de logros, los días de actividades y las clases para niños en la Sociedad de Socorro. Estas actividades deben ser agradables y al mismo tiempo enseñar el Evangelio. El élder M. Russell Ballard dijo: “Los tiempos para compartir y [otras] actividades creativas e innovadoras pueden ser muy estimulantes y divertidas, pero tendrán muy poco significado si los niños... terminan entreteniéndose sin que realmente se les haya instruido, enseñado el Evangelio y edificado espiritualmente... Cada lección, cada reunión y cada actividad debe dedicarse a que estos pequeñitos vengan a Cristo” (“Great Shall Be the Peace of Thy Children”, Ensign, abril de 1994, pág. 61).
 A medida que enseñe a los niños en grupos de edades combinadas, quizás tenga dificultad en simplificar un concepto a fin de que les resulte fácil de entender a los niños más pequeños y sea suficientemente interesante para los de mayor edad. Las siguientes sugerencias podrán ayudarle a incluir a todos los niños de su clase mientras aprenden en conjunto el Evangelio.
@@ -6953,7 +6954,7 @@ Las siguientes sugerencias le serán de ayuda al enseñar a las hermanas que vis
 <chapter key="lenspe00" title="Presentacion">
 Parte E: La enseñanza en ambientes de liderazgo
 </chapter>
-<chapter key="lenspe01" title="1. DIRIGIR ES ENSEÑAR">
+<chapter key="lenspe01" title="E1. DIRIGIR ES ENSEÑAR">
 1. DIRIGIR ES ENSEÑAR
 [El élder Boyd K. Packer señaló que todos los líderes de la Iglesia sirven como maestros: “El profeta es un maestro; sus consejeros son maestros; también lo son todas las Autoridades Generales. Los presidentes de estaca y los presidentes de misión son maestros; los miembros de sumos consejos y los presidentes de quórum son maestros; los obispos son maestros; y así es con todas las demás organizaciones de la Iglesia. La Iglesia progresa gracias al poder de sus enseñanzas” (Teach Ye Diligently, edición revisada [1991], págs. 3–4).]
 
@@ -6986,7 +6987,7 @@ Cuando era un joven obispo y un editor, el hermano Thomas S. Monson solía traba
 “Cierto día, se refirió a cuando el Salvador levantó de la muerte al hijo de la viuda en Naín, como se describe en el Evangelio según San Lucas. Al cerrar su Biblia, noté que el presidente Clark sollozaba. Con voz queda, me dijo: ‘Tom, sé bondadoso con las viudas y cuida de los pobres’” (Inspiring Experiences that Build Faith [1994], págs. 233–234).
 Dirigir en la Iglesia significa enseñar, y mejorarnos como maestros es aprender a enseñar con mayor eficacia, desde el púlpito, en reuniones de liderazgo y en circunstancias de persona a persona.
 </chapter>
-<chapter key="lenspe02" title="2. LA ENSEÑANZA EN REUNIONES DE LIDERAZGO">
+<chapter key="lenspe02" title="E2. LA ENSEÑANZA EN REUNIONES DE LIDERAZGO">
 2. LA ENSEÑANZA EN REUNIONES DE LIDERAZGO
 El Señor ha dicho: “Y ahora bien, he aquí, un mandamiento os doy, que al estar reunidos os instruyáis y os edifiquéis unos a otros, para que sepáis cómo conduciros, y cómo dirigir mi iglesia, y cómo obrar de conformidad con los puntos de mi ley y mis mandamientos que he dado. Y así seréis instruidos en la ley de mi iglesia, y seréis santificados por lo que habéis recibido, y os obligaréis a obrar con toda santidad ante mí” (D. y C. 43:8–9).
 Refiriéndose a esta revelación, el élder Jeffrey R. Holland declaró: “En nuestras reuniones administrativas, ‘instru[yamos] y edifiqu[emos]’ como dicen las revelaciones, para que incluso en éstas, nuestra enseñanza al final sea ‘de lo alto’” (véase “‘Venido de Dios como maestro’”, Liahona, julio de 1998, pág. 28; véase también D. y C. 43:16).
@@ -7001,7 +7002,7 @@ Cómo obtener el Espíritu mediante la reverencia
 Todos podemos enseñar y aprender el Evangelio y fortalecernos mutuamente cuando el Espíritu nos acompaña (véase D. y C. 42:14; 50:17–24). Podemos invitar al Espíritu por medio de la reverencia (véase “Cómo invitar al Espíritu al enseñar”, págs. 49–50; “La reverencia”, 90–92). En las reuniones de liderazgo, los que presiden y dirigen pueden fomentar la reverencia cuando toman sus asientos antes de que comience la reunión. Por medio de su proceder, pueden ayudar a establecer el tono mismo de las reuniones. Otros líderes que asistan a las reuniones podrían también llegar a tiempo, traer consigo sus propios libros canónicos, manuales y materiales para escribir, y prepararse calladamente y con espíritu de oración.
 La primera oración al comienzo de una reunión de liderazgo puede también contribuir a que se establezca un ambiente de reverencia y se invite la presencia del Espíritu. Un pensamiento espiritual brindará asimismo una buena oportunidad para enseñar y aprender principios del Evangelio. En algunas reuniones de liderazgo, un preludio musical apropiado y el cantar algunos himnos durante la reunión pueden ayudar a preparar el corazón y la mente de quienes se hallen presentes.
 </chapter>
-<chapter key="lenspe03" title="3. LA ENSEÑANZA POR MEDIO DE ENTREVISTAS">
+<chapter key="lenspe03" title="E3. LA ENSEÑANZA POR MEDIO DE ENTREVISTAS">
 3. LA ENSEÑANZA POR MEDIO DE ENTREVISTAS
 El presidente Thomas S. Monson compartió la siguiente experiencia:
 “Al aproximarme a mis dieciocho años de edad... se me recomendó para recibir el Sacerdocio de Melquisedec. Debía entonces ponerme en contacto con mi presidente de estaca, el presidente Paul C. Child, para hacer los arreglos para una entrevista. Este hombre en verdad comprendía y amaba las Escrituras y pensaba que los demás también deberían sentir lo mismo que él. Estando enterado por otras personas de sus inquisitivas y detalladas entrevistas, nuestra conversación telefónica se desarrolló más o menos de la siguiente forma:
@@ -7021,7 +7022,7 @@ El Señor ha dicho: “Atesorad constantemente en vuestras mentes las palabras d
 “Terminé mi lectura de esa mañana y me puse a trabajar. A la noche siguiente me reuní con una pareja cuyo matrimonio era un tanto débil. Al hablar con ellos, la hermana explicó algo que le había ocurrido cuando era jovencita. Había quebrantado una ley civil, lo cual entonces podría haber resultado en una acción judicial. Habían transcurrido ya treinta años y aquello ya no tenía ninguna consecuencia, pero ella continuaba teniendo un sentimiento de culpabilidad. En ese instante me vino a la mente aquel versículo de Doctrina y Convenios y al leerlo le brindó la paz mental que precisaba. ¡Qué testimonio fue para mí que el estudio diario de las Escrituras produjera una recompensa tan rápida!”
 Dé testimonio de las Escrituras y de los principios que enseñan Al tener entrevistas que se basen en las Escrituras, usted debe dar testimonio de las Escrituras; también podría compartir algunas experiencias que demuestren cómo los principios que esté analizando han bendecido su propia vida y la vida de otras personas.
 </chapter>
-<chapter key="lenspe04" title="4. CUANDO LOS LÍDERES INSTRUYEN A LOS MAESTROS">
+<chapter key="lenspe04" title="E4. CUANDO LOS LÍDERES INSTRUYEN A LOS MAESTROS">
 4. CUANDO LOS LÍDERES INSTRUYEN A LOS MAESTROS
 Si usted es un líder en la Iglesia, una de sus responsabilidades más importantes es instruir a los maestros de su organización en cuanto a sus deberes y guiarlos en sus esfuerzos por mejorar. A veces puede hacerlo en las reuniones de liderazgo (véanse las págs. 172–173) y en las reuniones de mejoramiento de maestros; otras veces podría requerir instrucciones individuales. Todo esfuerzo que haga por cumplir con esta responsabilidad podría resultar en una significativa contribución a la calidad de la enseñanza en la Iglesia.
 Para instrucciones adicionales en cuanto a lo que debería hacer para guiar a sus maestros, véase la sección “Enseñanza del Evangelio y liderazgo” en el Manual de Instrucciones de la Iglesia, págs. 367–370, y Cómo mejorar la enseñanza del Evangelio Una guía para el líder, págs. 5–7. A continuación se ofrecen cinco sugerencias sobre cómo brindar la guía que se describe en estos manuales.
@@ -8049,7 +8050,7 @@ Si estudia con miembros de su familia, organice su estudio como si estuviera en 
 Si estudia por sí mismo, imagínese que se encuentra en una clase. ¿Qué comentario podría hacer durante un análisis sobre los temas de la lección? ¿Cómo respondería a las preguntas que se hacen? Escriba sus ideas y percepciones en su cuaderno. Véase “Desarrolle un plan personal para estudiar el Evangelio”, páginas 16–17, para obtener algunas sugerencias sobre cómo llevar a cabo su estudio con eficacia.
 Si estudia por sí mismo, busque a alguna persona a quien le pueda presentar sus informes. Usted podrá mejorar su estudio personal si comparte sus percepciones y sus ideas con otra persona. Quizás podría pedir la ayuda de un miembro de su familia, un amigo, o un líder del sacerdocio o de una organización auxiliar. Comparta con tal persona sus objetivos, sus planes y los resultados de sus esfuerzos.
 </chapter>
-<chapter key="lenspg01" title="1. La importancia de la enseñanza del Evangelio en el plan de Dios">
+<chapter key="lenspg01" title="G1. La importancia de la enseñanza del Evangelio en el plan de Dios">
 Lección 1. La importancia de la enseñanza del Evangelio en el plan de Dios
 
 Objetivo
@@ -8158,7 +8159,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 2. Que procuren la guía del Espíritu Santo en relación con una lección en una próxima noche de hogar, una asignación en la Iglesia u otra oportunidad para enseñar. Que recuerden estas palabras del Señor: “Se os dará el Espíritu por la oración de fe” (D. y C. 42:14). Que escriban en sus cuadernos en cuanto a sus experiencias acerca de esta asignación. (Como parte de la lección 3, se les pedirá a algunos miembros de la clase que den un informe sobre estas experiencias.)
 3. Que repasen los principios enseñados en esta lección estudiando la sección de este libro titulada: “La importancia de la enseñanza del Evangelio en el plan de Dios” (págs. 2–10).
 </chapter>
-<chapter key="lenspg02" title="2. Ame a quienes enseña">
+<chapter key="lenspg02" title="G2. Ame a quienes enseña">
 Lección 2. Ame a quienes enseña
 
 Objetivo
@@ -8279,7 +8280,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 2. Que continúen la asignación de la semana anterior de procurar la guía del Espíritu con respecto a una próxima lección en la noche de hogar, una asignación en la Iglesia u otra oportunidad para la enseñanza. Que recuerden estas palabras del Señor: “Se os dará el Espíritu por la oración de fe” (D. y C. 42:14). Que escriban en sus cuadernos acerca de las experiencias que tengan con esta asignación. (Como parte de la lección 3, se pedirá a algunos miembros de la clase que den un informe sobre tales experiencias.)
 3. Que repasen los principios que esta lección enseña estudiando la sección de este libro titulada “Ame a quienes enseña” (págs. 32–43).
 </chapter>
-<chapter key="lenspg03" title="3. Enseñe por medio del Espíritu">
+<chapter key="lenspg03" title="G3. Enseñe por medio del Espíritu">
 Lección 3. Enseñe por medio del Espíritu
 
 Objetivo
@@ -8395,7 +8396,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 2. Que continúen registrando su progreso personal en sus respectivos cuadernos.
 3. Que repasen los principios enseñados en esta lección estudiando la sección de este libro titulada “Enseñe mediante el Espíritu” (págs. 44–52).
 </chapter>
-<chapter key="lenspg04" title="4. Enseñe la doctrina">
+<chapter key="lenspg04" title="G4. Enseñe la doctrina">
 Lección 4. Enseñe la doctrina
 
 Objetivo
@@ -8522,7 +8523,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 2. Con respecto a la asignación que se dio durante la lección en cuanto a lo que se escribió en el cuaderno, que traten de hacer algo en la semana entrante para mejorar su estudio personal del Evangelio. Que escriban acerca de su progreso en relación con este cometido.
 3. Que repasen los principios enseñados en esta lección estudiando la sección de este libro titulada “Enseñe la doctrina” (págs. 53–64).
 </chapter>
-<chapter key="lenspg05" title="5. Promueva un aprendizaje diligente">
+<chapter key="lenspg05" title="G5. Promueva un aprendizaje diligente">
 Lección 5. Promueva un aprendizaje diligente
 
 Objetivo
@@ -8661,7 +8662,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 1. Que escriban en sus cuadernos acerca de sus experiencias al poner en práctica sus planes de fomentar un aprendizaje diligente (véase más arriba “Actividad con el cuaderno”). Si fuese apropiado, que hablen sobre tales experiencias con uno de sus líderes, otro miembro de la clase o con un miembro de su familia.
 2. Que repasen los principios tratados en esta lección estudiando la sección de este libro titulada “Fomente el aprendizaje diligente” (págs. 65–81).
 </chapter>
-<chapter key="lenspg06" title="6. Prepare un ambiente propicio para aprender (primera parte)">
+<chapter key="lenspg06" title="G6. Prepare un ambiente propicio para aprender (primera parte)">
 Lección 6. Prepare un ambiente propicio para aprender (primera parte)
 
 Objetivo
@@ -8780,7 +8781,7 @@ Asignación
 Informe a los miembros de la clase que la lección de la próxima semana estará enfocada en un cierto número de cosas específicas que los maestros pueden hacer para evitar distracciones y resolver problemas de disciplina. Pídales que piensen en alguna situación que podría afectar negativamente a un ambiente propicio para aprender y en una posible solución. La solución deberá ser específica y práctica. Deben escribir en sus cuadernos acerca de la situación, así como también de la solución y prepararse para dedicar dos o tres minutos en la clase de la semana próxima para hablar en cuanto a lo que hayan escrito.
 Para considerar posibles soluciones, los miembros de la clase deberían estudiar la sección de este libro titulada “Prepare un ambiente propicio para aprender” (páginas 82–97).
 </chapter>
-<chapter key="lenspg07" title="7. Prepare un ambiente propicio para aprender (segunda parte)">
+<chapter key="lenspg07" title="G7. Prepare un ambiente propicio para aprender (segunda parte)">
 Lección 7. Prepare un ambiente propicio para aprender (segunda parte)
 
 Objetivo
@@ -8855,7 +8856,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 1. Que continúen estudiando la sección de este libro titulada “Prepare un ambiente propicio para aprender” (págs. 82–97). Que consideren su propia manera de enseñar, determinando qué pueden hacer para preparar un ambiente propicio para aprender.
 2. Que repasen la lista que se encuentra en la página 238 acerca de cómo promover un aprendizaje diligente. Que escojan un tema de la lista y que lo apliquen en una próxima oportunidad que tengan para enseñar. Que escriban en sus cuadernos en cuanto a tal experiencia.
 </chapter>
-<chapter key="lenspg08" title="8. Emplee métodos eficaces (primera parte)">
+<chapter key="lenspg08" title="G8. Emplee métodos eficaces (primera parte)">
 Lección 8. Emplee métodos eficaces (primera parte)
 
 Objetivo
@@ -8971,7 +8972,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 2. Que escriban en sus cuadernos en cuanto a las experiencias que tengan en seleccionar y utilizar diferentes métodos de enseñanza.
 3. Que repasen la sección de este libro titulada “Emplee métodos eficaces” (págs. 98–107). Repasar también la Parte F, titulada “Métodos de enseñanza” (págs. 179–209).
 </chapter>
-<chapter key="lenspg09" title="9. Emplee métodos eficaces (segunda parte)">
+<chapter key="lenspg09" title="G9. Emplee métodos eficaces (segunda parte)">
 Lección 9. Emplee métodos eficaces (segunda parte)
 
 Objetivo
@@ -9045,7 +9046,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 1. Que prueben nuevos métodos para enseñar los principios del Evangelio. Pídales que escriban acerca de sus experiencias en sus cuadernos.
 2. Que vayan a la clase de la semana siguiente habiéndose preparado para desarrollar un plan para una lección que habrán de enseñar próximamente. Esta lección podría ser parte de una asignación para la noche de hogar, una asignación de la Iglesia u otra oportunidad para enseñar. Que lleven asimismo los materiales para la lección, como son sus propios libros canónicos y sus manuales.
 </chapter>
-<chapter key="lenspg10" title="10. Prepare todo lo necesario">
+<chapter key="lenspg10" title="G10. Prepare todo lo necesario">
 Lección 10. Prepare todo lo necesario
 
 Objetivo Ayudar a los miembros de la clase a preparar lecciones eficaces.
@@ -9146,7 +9147,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 2. Que repasen los principios enseñados en esta lección estudiando la sección de este libro titulada “Prepare todo lo necesario” (págs. 108–118).
 3. Que se preparen para la lección de la semana próxima estudiando Mateo 7:1–5. Que consideren si hay algo que ya están haciendo para superar los problemas que enfrentan como maestros. Que piensen acerca de los cambios que podrían efectuar. Al hacerlo, deben meditar en cuanto al consejo del Señor que se encuentra en Éter 12:27, 37 acerca de las bendiciones que recibimos cuando reconocemos nuestras propias debilidades.
 </chapter>
-<chapter key="lenspg11" title="11. Perfeccione sus talentos">
+<chapter key="lenspg11" title="G11. Perfeccione sus talentos">
 Lección 11. Perfeccione sus talentos
 
 Objetivo
@@ -9223,7 +9224,7 @@ Aliente a los miembros de la clase para que hagan lo siguiente:
 2. Que repasen los principios enseñados en esta lección estudiando la sección de este libro titulada “Perfeccione sus talentos” (págs. 22–29). Que continúen dedicándose a su plan personal para mejorarse.
 3. Que asistan a la clase de la semana próxima habiéndose preparado para ofrecer presentaciones sobre lo que han aprendido y qué progreso han obtenido merced a este curso. Cada presentación deberá abarcar de unos tres a cinco minutos, dependiendo del número de alumnos. Dichas presentaciones deberán incluir informes acerca de (a) en qué manera han cambiado como maestros debido a las cosas que han aprendido y (b) qué planean hacer para continuar mejorándose como maestros.
 </chapter>
-<chapter key="lenspg12" title="12. Siga adelante y enseñe">
+<chapter key="lenspg12" title="G12. Siga adelante y enseñe">
 Lección 12. Siga adelante y enseñe
 
 Objetivo
@@ -10090,7 +10091,7 @@ Spanish 10581 002
 105881 002
 SPANISH
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="Índice de temas">
 Índice de temas
 
 Prefacio. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V
@@ -10135,7 +10136,7 @@ Seminarios e Institutos de Religión (SeI) . . . . . . . . . . . . . . . . . . .
 6.1  La promesa del Señor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
 Índice alfabético . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="Prefacio">
 Prefacio
 “Cuando comenzamos a examinarnos a nosotros mismos y deseamos mejorar nuestra aptitud como maestros, ¿qué mejor modelo podríamos encontrar? ¿Qué mejor estudio podríamos emprender que examinar nuestras ideas, objetivos y métodos y compararlos con los de Jesucristo?” (véase Boyd K. Packer, Enseñad diligentemente, rev. edición de 1991, pág. 14).
 
@@ -10154,7 +10155,7 @@ En cada situación, Él fue su ejemplo y mentor. Les enseñó a orar al orar con
 Es evidente que la manera de enseñar del Salvador difiere de la del mundo.
 Éste es su sagrado llamamiento: enseñar como enseñó el Salvador. Al hacerlo, los jóvenes darán cabida en su corazón para que la semilla del Evangelio se siembre, se hinche y crezca, lo cual los conducirá a la conversión: el objetivo primordial de su enseñanza. Al ayudar a los jóvenes a convertirse, los ayuda a prepararse para seguir al Salvador a lo largo de la vida: a que sirvan en misiones, reciban las ordenanzas del templo, críen familias en rectitud y edifiquen el reino de Dios en todo el mundo.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="Introducción">
 Introducción
 
 El Sistema Educativo de la Iglesia (SEI)
@@ -10182,7 +10183,7 @@ Administramos nuestros programas y recursos de manera apropiada. Nuestros esfuer
 </chapter>
 </section>
 <section key="" title="">
-<chapter key="" title="">
+<chapter key="" title="1. El Objetivo">
 1. El Objetivo
 
 Se ha encomendado a los maestros del evangelio de Jesucristo una responsabilidad sagrada. Su propósito va más allá de enseñar lecciones. El élder Oaks dijo: “Un maestro del Evangelio nunca estará satisfecho solamente con presentar un mensaje o predicar un sermón. El maestro excelente del Evangelio desea ayudar en la obra del Señor de brindar la vida eterna a Sus hijos” (“La enseñanza del Evangelio”, Liahona, enero de 2000, págs. 97‒98).
@@ -10283,7 +10284,7 @@ De conformidad con las normas y procedimientos establecidos, los líderes y maes
 Los maestros y administradores también deben trabajar en cooperación con los líderes de los Hombres Jóvenes y las Mujeres Jóvenes, y alentar a los jóvenes, en forma adecuada, a participar en los programas de Mi Deber a Dios y el Progreso Personal. Donde sea factible, los maestros de seminario deben consultar con otros maestros, asesores y líderes sobre las necesidades de los jóvenes.
 (Para obtener más información acerca de los principios y las prácticas de la administración de seminario e instituto, consulte el manual El administrar adecuadamente.)
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="2. Fundamentos de la enseñanza y el aprendizaje del Evangelio">
 2. Fundamentos de la enseñanza y el aprendizaje del Evangelio
 
 El Objetivo de Seminarios e Institutos de Religión sugiere tres metas principales para la enseñanza que tanto los administradores como los maestros procuran adquirir, con el fin de llevar a cabo el propósito de Seminarios e Institutos de Religión:
@@ -10613,7 +10614,7 @@ Las doctrinas básicas que ha seleccionado Seminarios e Institutos de Religión 
 A medida que los maestros estudian personalmente y entienden las doctrinas básicas, se sentirán más cómodos al referirse y testificar de ellas mientras enseñan. Sin embargo, ellos no deben desviarse de enseñar las Escrituras en orden secuencial para centrarse exclusivamente en estas doctrinas. En lugar de ello, los maestros deben dar esmerada y constante atención a estas doctrinas, a medida que aparezcan naturalmente en el texto de las Escrituras y en los cursos de estudio. De esta manera, la lista de doctrinas básicas servirá de recordatorio para centrarse en esas verdades eternas que serán de mayor valor para los alumnos y para realzarlas a lo largo del curso de estudio. Estas doctrinas básicas también se pueden usar como temas para los devocionales.
 Un maestro sabio también recordará que la paciencia y la regularidad son importantes para ayudar a los alumnos a comprender las doctrinas básicas. No se espera que un alumno llegue a entender completamente todo de una sola vez. El Señor enseña a Sus hijos “línea sobre línea, precepto tras precepto” (D. y C. 98:12). Los maestros y los alumnos deben considerar la comprensión de estas doctrinas como un proceso que ocurre durante los cuatro años de seminario y continúa en los años de instituto.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="3. La enseñanza de las Escrituras en Seminarios e Institutos de Religión">
 3. La enseñanza de las Escrituras en Seminarios e Institutos de Religión
 A fin de ayudar a los jóvenes y a los jóvenes adultos a entender las enseñanzas y la expiación de Jesucristo, y a confiar en ellas, los maestros de seminario e instituto tienen la comisión de enseñar a los alumnos las doctrinas y los principios del Evangelio como se hallan en las Escrituras. Para lograr esto, la administración de Seminarios e Institutos ha determinado que en los cursos sobre las Escrituras se enseñen los libros y capítulos de las Escrituras en la misma secuencia con que aparecen en los libros canónicos. Si bien esto no significa que cada versículo deba ser enseñado en el orden exacto en que aparece, por lo general cada lección seguirá la historia o la secuencia natural de los versículos. Estudiar las Escrituras de esta manera proporciona la base para entender la extensión plena del mensaje que el autor inspirado pretendía transmitir, y permite estudiar los principios y las doctrinas del Evangelio a medida que van surgiendo y son ilustrados en el texto de las Escrituras.
 Estudiar las Escrituras en orden secuencial:
@@ -10741,7 +10742,7 @@ Evangelio   |                                                                   
                              Estudio secuencial del bloque de Escrituras
 
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="4. Prepararse para enseñar">
 4. Prepararse para enseñar
 
 4.1 La preparación personal
@@ -10887,7 +10888,7 @@ El emplear una variedad de métodos de enseñanza puede ayudar a llegar hasta al
 Si bien los maestros generalmente deben seleccionar los métodos que dominen bien y con los que se sientan cómodos, deben estar dispuestos a experimentar con nuevos métodos y enfoques que quizás les permitan ser aún más eficaces.
 El capítulo siguiente de este manual analiza una variedad de métodos y enfoques de enseñanza que los maestros podrían considerar cuando decidan cómo enseñar.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="5. Métodos, técnicas y enfoques de enseñanza">
 5. Métodos, técnicas y enfoques de enseñanza
 
 La enseñanza es una tarea compleja y polifacética. Una lista de métodos o técnicas de enseñanza abarcaría muchas ideas y ejemplos, y su análisis exhaustivo llenaría varios tomos. No obstante, es posible agruparlos en algunas áreas generales de métodos, técnicas o enfoques de enseñanza que son esenciales para la enseñanza eficaz. Este capítulo abordará algunas de estas importantes áreas.
@@ -11112,7 +11113,7 @@ Adicionalmente, los siguientes consejos y advertencias se aplican a una variedad
 • Empleo de la fuerza física. Los maestros nunca deben emplear su fuerza física, ni su estatura para intimidar ni obligar a un alumno a comportarse. Incluso los intercambios físicos en forma de juego pueden ser malinterpretados o convertirse en algo más serio. Los maestros sólo deben involucrarse físicamente con un alumno cuando es necesario proteger a otro alumno.
 • El género que se utiliza en el lenguaje de las Escrituras. Los maestros deben estar alerta y ser sensibles al género que se utiliza en el lenguaje de las Escrituras. Algunos pasajes de las Escrituras están escritos en género masculino debido a los idiomas de los cuales derivan. Los maestros deben indicar a los alumnos que algunos términos masculinos se refieren tanto a hombres como a mujeres. Cuando a Adán se le dijo que era preciso que “todos los hombres, en todas partes, se arrepientan” (Moisés 6:57), ciertamente el Señor estaba hablando tanto de los hombres como de las mujeres. Hay ocasiones en que las formas masculinas son específicas y precisas. Por ejemplo, los miembros de la Trinidad son masculinos y las referencias a los deberes del sacerdocio se deben aplicar estrictamente a los hermanos.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="6. Mejoramiento continuo del maestro">
 6. Mejoramiento continuo del maestro
 
 A medida que los maestros se esfuerzan por implementar los principios y métodos descritos en este manual, deben trabajar continua y pacientemente en su mejoramiento. Los maestros deben aprender los principios de la enseñanza eficaz y dominar sus técnicas línea sobre línea, por medio del estudio, la fe, la práctica y la experiencia. Hay muchas maneras de evaluar la eficacia de la enseñanza y recibir comentarios y ayuda sobre cómo mejorar. Algunas de las formas que ayudarán a los maestros a mejorar son los métodos formales y estructurados, tales como la observación de la clase y las sugerencias de los otros maestros, supervisores y alumnos. Existen métodos informales tales como escuchar a los alumnos, observar a otros maestros o compartir ideas y experiencias con otros maestros.
@@ -11130,7 +11131,7 @@ La enseñanza del Evangelio es la obra del Señor y Él desea que los maestros d
 “Mas os doy el mandamiento de que cualquier cosa que declaréis en mi nombre se declare con solemnidad de corazón, con el espíritu de mansedumbre, en todas las cosas.
 “Y os prometo que si hacéis esto, se derramará el Espíritu Santo para testificar de todas las cosas que habléis” (D. y C. 100:5–8).
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="7. Índice alfabético">
 7. Índice alfabético
 
 A
@@ -15390,7 +15391,7 @@ Aprobación de la traducción: 8/97
 Traducción de Marriage and Family Relations: Participan’s Study Guide
 Spanish
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="Índice de temas">
 Índice de temas
 
 “La familia: Una proclamación para el mundo”. . . . . . . . . . . . . . . . . . . . . . . . . . IV
@@ -15417,7 +15418,7 @@ PARTE B: LA RESPONSABILIDAD DE LOS PADRES DE FORTALECER A LA FAMILIA
 15. Cómo guiar a los hijos a medida que ellos toman decisiones. . . . . . . . . . . . . . . . . 64
 16. Oración familiar, estudio de las Escrituras en familia y noche de hogar para la familia . . 68
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="La Familia - Una proclamación para el mundo">
 La Familia - Una proclamación para el mundo
 LA PRIMERA PRESIDENCIA Y EL CONSEJO DE LOS DOCE APÓSTOLES DE LA IGLESIA DE JESUCRISTO DE LOS SANTOS DE LOS LTIMOS DÍAS
 
@@ -15433,7 +15434,7 @@ HACEMOS UN LLAMADO a los ciudadanos responsables y a los representantes de los g
 
 El presidente Gordon B. Hinckley leyó esta proclamación como parte de su mensaje en la Reunión General de la Sociedad de Socorro, el 23 de septiembre de 1995, en Salt Lake City, Utah, E.U.A.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="Introducción">
 Introducción
 
 Objetivo de este curso
@@ -15472,7 +15473,7 @@ Los siguientes materiales de consulta producidos por la Iglesia proporcionan inf
 • Piedras angulares de un hogar feliz (33108 002). Este folleto contiene un discurso que dio el presidente Gordon B. Hinckley, mientras servía como Segundo Consejero de la Primera Presidencia.
 • Una guía para la economía familiar (Liahona, abril de 2000, páginas 42–47). Este artículo por el élder Marvin J. Ashton, que fue miembro del Quórum de los Doce Apóstoles, da sugerencias prácticas para la administración de las finanzas familiares.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="Reseña del curso Matrimonio y relaciones familiares">
 Reseña del curso Matrimonio y relaciones familiares
 
 PARTE A: EL FORTALECIMIENTO DEL MATRIMONIO
@@ -15566,10 +15567,10 @@ La noche de hogar las ayuda a fortificarse en contra de las influencias mundanas
 </chapter>
 </part>
 <part key="" title="Sección A - El fortalecimiento del matrimonio">
-<chapter key="" title="">
+<chapter key="" title="Parte A - El fortalecimiento del matrimonio">
 Parte A - El fortalecimiento del matrimonio
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="1. &amp;La familia es la parte central del plan del Creador&amp;">
 1. “La familia es la parte central del plan del Creador”
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -15701,7 +15702,7 @@ NOTAS
 39. Véase Doctrina y Convenios 137:7–9.
 40. “Discourse by President Lorenzo Snow”, Millennial Star, 31 de agosto de 1899, página 547.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="2. Cómo desarrollar la unidad en el matrimonio">
 2. Cómo desarrollar la unidad en el matrimonio
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -15760,7 +15761,7 @@ Podemos ser pacificadores, dignos de ser llamados bienaventurados e hijos de Dio
 Dios, nuestro Padre, vive. Su amado Hijo Jesucristo está a la cabeza de esta Iglesia y Él ofrece a todos los que lo acepten el estandarte de paz.
 De un discurso pronunciado por el élder Eyring en la conferencia general de la Iglesia de abril de 1998 (véase Liahona, julio de 1998, páginas 72–74).
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="3. Cómo cultivar el amor y la amistad en el matrimonio">
 3. Cómo cultivar el amor y la amistad en el matrimonio
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -15810,7 +15811,7 @@ Hermanos y hermanas, quisiera decirles que ésta es la palabra del Señor; es de
 Les suplicamos que mediten sobre estas cosas; asegúrense de que su matrimonio marche en la manera debida, de que su vida esté en orden, de que cumplan su parte en el matrimonio en la forma apropiada.
 Véase el ejemplar de junio de 1978 de la revista Liahona, páginas 1–5. [Nota: en la revista no se encuentra el texto completo de este artículo.]
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="4. Cómo enfrentar los desafios en el matrimonio">
 4. Cómo enfrentar los desafios en el matrimonio
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -15859,7 +15860,7 @@ La sección 121 de Doctrina y Convenios es una de las mejores fuentes de consult
 Ruego que el sueño de cada niño de tener aquí en la tierra una familia que sea buena con él se haga realidad.
 De un discurso pronunciado por el élder Robbins en la conferencia general de la Iglesia de abril de 1998 (véase Liahona, julio de 1998, páginas 86–87).
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="5. Cómo enfrentar los desafíos por medio de la comunicación positiva">
 5. Cómo enfrentar los desafíos por medio de la comunicación positiva
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -15937,7 +15938,7 @@ En resumen:
 Testifico que Jesús es el Cristo. La tumba estaba vacía en aquel tercer día y “así como en Adán todos mueren, también en Cristo todos serán vivificados” (1 Corintios 15:22). De manera que, con gratitud por el poder sellador que se encuentra en el Evangelio restaurado de Jesucristo, podemos decir con seguridad, como dijo la poetisa: “Te amaré aún más después de la muerte” (Elizabeth Barrett Browning, Sonnets from the Portuguese, Nº 43, verso 14).
 De un discurso pronunciado por el élder Christensen en la conferencia general de la Iglesia de abril de 1995 (véase Liahona, julio de 1995, páginas 72–74).
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="6. El fortalecimiento del matrimonio por medio de la fe y la oración">
 6. El fortalecimiento del matrimonio por medio de la fe y la oración
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16027,7 +16028,7 @@ NOTAS
 10. Doctrina y Convenios 24:8.
 11. Véase Joseph F. Smith, Doctrina del Evangelio, páginas Spencer W. Kimball, 1972, página 98. 171–172.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="7. El poder sanador del perdón">
 7. El poder sanador del perdón
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16081,7 +16082,7 @@ Queridos hermanos y hermanas, curemos las heridas, las muchas heridas que han si
 “Errar es humano, perdonar es divino” (Alexander Pope, An Essay on Criticism, tomo II, pág. 1711). No existe paz en donde se refleja el dolor de viejas heridas. La paz está únicamente donde existe el arrepentimiento y el perdón. Me refiero a la dulce paz de Cristo quien dijo: “Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios” (Mateo 5:9).
 Del ejemplar de junio de 1991 de la revista Liahona, páginas 3–6.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="8. La administración de las finanzas de la familia">
 8. La administración de las finanzas de la familia
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16195,7 +16196,7 @@ Total de gastos                           ___________  ___________
 <chapter key="" title="Sección B - La responsabilidad de los padres de fortalecer a la familia">
 Sección B - La responsabilidad de los padres de fortalecer a la familia
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="9. &amp;Herencia de Jehová son los hijos*amp;">
 9. “Herencia de Jehová son los hijos”
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16294,7 +16295,7 @@ NOTAS
 11. 3 Nefi 17:21–24.
 12. Salmos 127:3.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="10. La función sagrada del padre y de la madre - Parte 1: La función del padre">
 10. La función sagrada del padre y de la madre - Parte 1: La función del padre
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16383,7 +16384,7 @@ Recuerden que el llamamiento de padres en la Iglesia es sagrado, que es el llama
 Ruego que siempre puedan proveer las necesidades materiales de su familia y que, con su esposa a su lado, puedan cumplir con la sagrada responsabilidad de ser los líderes espirituales del hogar.
 De un discurso pronunciado por el presidente Benson en la sesión del sacerdocio de la conferencia general de la Iglesia de octubre de 1987 (véase Liahona, enero de 1988, páginas 48–51).
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="11. La función sagrada del padre y de la madre - Parte 2: La función de la madre">
 11. La función sagrada del padre y de la madre - Parte 2: La función de la madre
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16477,7 +16478,7 @@ Amen sinceramente a sus hijos. Décimo y por último, dediquen tiempo a amarlos 
 Madres, sus hijos adolescentes también necesitan de amor y atención similares. Parece que a algunos padres les es fácil expresar y demostrar amor a sus hijos mientras éstos son pequeños, pero les es difícil hacerlo cuando son ya mayores. Esfuércense en esto orando al respecto. No tiene por qué haber nada que les separe de ellos, y el amor es la clave para el entendimiento. Nuestros jóvenes necesitan amor y atención, no liberalidad; necesitan de sus padres comprensión profunda, no indiferencia; necesitan que sus padres les dediquen tiempo. Las bondadosas enseñanzas de una madre y su amor y confianza en sus hijos adolescentes pueden salvarlos de un mundo de iniquidad.
 De un discurso pronunciado por el presidente Benson en una charla fogonera para padres el 22 de febrero de 1987.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="12. La enseñanza de los hijos por medio del ejemplo y de la instrucción">
 12. La enseñanza de los hijos por medio del ejemplo y de la instrucción
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16602,7 +16603,7 @@ NOTAS
 9. “Nuestro reloj espiritual”, Liahona, enero de 1990, página 60.
 10. Fortaleciendo el hogar, folleto, 1973, página 8.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="13. La enseñanza de los principios del Evangelio a los hijos - Parte 1">
 13. La enseñanza de los principios del Evangelio a los hijos - Parte 1
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16705,7 +16706,7 @@ Los profetas de la actualidad nos han dado una amonestación y una advertencia s
 Ruego que podamos recibir y mantener el Espíritu del Señor en nuestros hogares, para fortalecer a nuestras familias. Es mi oración que cada miembro de nuestra familia permanezca en el “estrecho y angosto camino que conduce a la vida eterna” (2 Nefi 31:18).
 De un discurso pronunciado por el élder Hales en la conferencia general de la Iglesia de abril de 1999 (véase Liahona, julio de 1999, páginas 37–40).
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="14. La enseñanza de los principios del Evangelio a los hijos - Parte 2">
 14. La enseñanza de los principios del Evangelio a los hijos - Parte 2
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16892,7 +16893,7 @@ NOTAS
 27. Mateo 19:14.
 28. 3 Nefi 17:11–12, 21–25.
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="15. Cómo guiar a los hijos a medida que ellos toman decisiones">
 15. Cómo guiar a los hijos a medida que ellos toman decisiones
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -16953,7 +16954,7 @@ Escuchen el significativo consejo del rey Benjamín:
 Mis hermanos y hermanas, ruego que Dios bendiga a cada uno de nosotros para que el fuego de nuestros convenios arda en nuestros corazones como una llama inextinguible. Que estemos preparados espiritualmente para renovar nuestros sagrados convenios cada semana al participar de la Santa Cena. Que honremos al Señor y estemos ansiosos por hacer nuestra parte, en estos días tan emocionantes y maravillosos, para edificar Su Iglesia mediante el fortalecimiento de nuestras familias, es mi humilde oración.
 De un discurso pronunciado por el élder Ballard en la conferencia general de la Iglesia de abril de 1999 (véase Liahona, julio de 1999, páginas 101–104).
 </chapter>
-<chapter key="" title="">
+<chapter key="" title="16. Oración familiar, estudio de las Escrituras en familia y noche de hogar para la familia">
 16. Oración familiar, estudio de las Escrituras en familia y noche de hogar para la familia
 
 IDEAS PARA PONER EN PRÁCTICA
@@ -22522,3 +22523,4 @@ V
 </book>
 </volume>
 </reco>
+</bookshelf>
